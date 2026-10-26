@@ -2,7 +2,9 @@
 
 用 **HTML + CSS + 原生 JavaScript** 手写的数据看板。单文件、零依赖、无构建步骤，在 320px–1920px 的宽度区间内都不会出现横向滚动条。
 
-> 在线预览：待 GitHub Pages 部署后更新
+> 在线预览：<https://amber-e.github.io/pulse-dashboard/>
+>
+> GitHub 仓库：<https://github.com/Amber-e/pulse-dashboard>
 
 ![桌面端预览](preview-desktop.png)
 
